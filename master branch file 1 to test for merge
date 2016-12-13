@@ -1,0 +1,2 @@
+While some of these answers are pretty good, I feel like none actually answered OP's original constraint: selecting particular files from particular branches. This solution does that, but may be tedious if there are many files.
+Lets say you have the master, exp1, and exp2 branches. You want to merge one file from each of the experimental branches into master. I would do something like this:
